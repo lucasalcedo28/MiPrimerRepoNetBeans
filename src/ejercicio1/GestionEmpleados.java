@@ -10,6 +10,8 @@ public class GestionEmpleados {
         empleados.add(e);
     }
 
+    
+    
     // Mostrar todos
     public void mostrarEmpleados() {
         empleados.forEach(System.out::println);
